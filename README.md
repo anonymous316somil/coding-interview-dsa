@@ -17,25 +17,25 @@ The focus is on:
 ---
 
 ## 📂 Folder Structure
-- Arrays /
-- Strings /
-- Linked List /
-- Recursion /
-- Backtracking /
-- HashMap /
-- HashSet
-- Heap /
-- Stack & Queue /
-- Bit Manipulation /
-- Mathematical /
-- Greedy /
-- Sliding Window /
-- Divide and Conquer /
-- Design /
-- Trees /
-- Trie /
-- Graphs /
-- Dynamic Programming /
+├── Arrays/
+├── Strings/
+├── Linked List/
+├── Recursion/
+├── Backtracking/
+├── HashMap/
+├── HashSet/
+├── Heap/
+├── Stack & Queue/
+├── Bit Manipulation/
+├── Mathematical/
+├── Greedy/
+├── Sliding Window/
+├── Divide and Conquer/
+├── Design/
+├── Trees/
+├── Trie/
+├── Graphs/
+├── Dynamic Programming/
 
 
 Each folder contains:
